@@ -1,0 +1,23 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.banner{
+    width: 100%;
+    height: 50px;
+
+    background-color: rgb(238, 238, 238);
+}
+
+.banner_element{
+    display: flex;
+    justify-content: space-between;
+    padding : 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
